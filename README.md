@@ -1,4 +1,4 @@
-# practise_application
+# Bar_chart
 
 A new Flutter project.
 
